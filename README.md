@@ -22,13 +22,21 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
   <img src="https://skillicons.dev/icons?i=flask" />
   <img src="https://skillicons.dev/icons?i=dart" />
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  
 </div>
 
 ## GitHub Analytics
@@ -49,8 +57,8 @@
   <a href="https://www.linkedin.com/in/abhinavkumarsingh1405/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://skillicons.dev/icons?i=portfolio" />
+  <a href="https://abhinavexists.xyz">
+    <img src="https://skillicons.dev/icons?i=ableton" />
   </a>
 </div>
 
