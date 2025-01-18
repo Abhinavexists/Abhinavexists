@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavexists&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
 </div>
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavexists&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Abhinav's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Abhinavexists&theme=react-dark&hide_border=true" alt="Abhinav's GitHub Streak" />
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavexists&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
