@@ -1,9 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=32&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Hello,+World!+👋;I'm+Abhinav!;Welcome+to+my+GitHub." />
 </h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinavexists&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhinavexists&label=Profile%20views&color=5A5A5A&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Abhinavexists?label=Followers&style=social" alt="followers" />
 </p>
 
@@ -36,17 +35,16 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://skillicons.dev/icons?i=pytorch" />
   <img src="https://skillicons.dev/icons?i=docker" />
-  
 </div>
 
 ## GitHub Analytics
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavexists&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Abhinav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavexists&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavexists&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=5A5A5A&text_color=000000&bg_color=ffffff" alt="Abhinav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavexists&layout=compact&hide_border=true&title_color=000000&text_color=5A5A5A&bg_color=ffffff" alt="Top Languages" />
 </div>
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
   <img src="https://streak-stats.demolab.com/?user=Abhinavexists&theme=react-dark&hide_border=true" alt="Abhinav's GitHub Streak" />
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavexists&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavexists&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ## Let's Connect
@@ -61,7 +59,5 @@
     <img src="https://skillicons.dev/icons?i=ableton" />
   </a>
 </div>
-
 💙 If you like my projects, Give them ⭐ and Share them!
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=60&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A5A5A&height=60&section=footer"/>
