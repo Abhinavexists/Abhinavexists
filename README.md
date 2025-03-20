@@ -38,13 +38,15 @@
 </div>
 
 ## GitHub Analytics
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavexists&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=5A5A5A&text_color=000000&bg_color=ffffff" alt="Abhinav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavexists&layout=compact&hide_border=true&title_color=000000&text_color=5A5A5A&bg_color=ffffff" alt="Top Languages" />
-</div>
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
-  <img src="https://streak-stats.demolab.com/?user=Abhinavexists&theme=react-dark&hide_border=true" alt="Abhinav's GitHub Streak" />
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavexists&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
+<div align="center">
+  <div class="grid grid-cols-2 gap-4">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abhinavexists&show_icons=true&count_private=true&hide_border=false&title_color=2AA889&icon_color=599CAB&text_color=99D1CE&bg_color=0C1014" alt="Abhinav's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavexists&layout=compact&hide_border=false&title_color=2AA889&text_color=99D1CE&bg_color=0C1014" alt="Top Languages" width="48%" />
+  </div>
+  <div class="grid grid-cols-2 gap-4 mt-4">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhinavexists&theme=dark-smoky&hide_border=false" alt="Abhinav's GitHub Streak" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavexists&theme=gotham&hide_border=false&area=true" alt="Contribution Graph" width="48%" />
+  </div>
 </div>
 
 ## Let's Connect
