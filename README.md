@@ -31,7 +31,7 @@ Tools & Cloud:  <code>OpenCV</code> <code>Matplotlib</code> <code>Docker</code> 
 - [Wavelet-Transform](https://github.com/Abhinavexists/Wavelet-Transforms) - Image denoising using wavelet transforms, featuring multiple thresholding methods, color space processing.  
   <br>
 
-- [wasserstoff](https://github.com/Abhinavexists/wasserstoff) - Document research and theme identification application with multi-level citation capabilities. 
+- [Redoc](https://github.com/Abhinavexists/Redoc) - Document research and theme identification application with multi-level citation capabilities. 
 - [FinWell](https://github.com/Abhinavexists/FinWell) - A sophisticated multi-agent financial analysis tool that provides comprehensive stock market analysis.  
 - [AgenticBob](https://github.com/Abhinavexists/AgenticBOB) - AI-powered content research and writing assistant built with CrewAI and Streamlit.  
   <br>
